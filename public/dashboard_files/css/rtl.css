@@ -1,0 +1,33 @@
+
+.pull-left{
+	float: right !important;
+}
+
+.pull-right{
+	float: left !important;
+}
+
+
+
+@media (min-width: 200px) {
+    .mar2{
+        margin-bottom: 7px !important;
+    }
+}
+@media (min-width: 992px) {
+    .mar2{
+        margin-bottom: 0 !important;
+    }
+}
+
+@media (min-width: 200px) {
+    .mar{
+        margin-bottom: 5px !important;
+    }
+}
+
+@media (min-width: 947px) {
+    .mar{
+        margin-bottom: 0 !important;
+    }
+}
